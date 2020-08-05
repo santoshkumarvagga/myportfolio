@@ -943,7 +943,7 @@ section {
 /*--------------------------------------------------------------
 # Cource Details
 --------------------------------------------------------------*/
-.course-details h3 {
+.Certificates h3 {
   font-size: 24px;
   margin: 30px 0 15px 0;
   font-weight: 700;
@@ -951,7 +951,7 @@ section {
   padding-bottom: 10px;
 }
 
-.course-details h3:before {
+.Certificates h3:before {
   content: '';
   position: absolute;
   display: block;
@@ -962,7 +962,7 @@ section {
   left: 0;
 }
 
-.course-details h3:after {
+.Certificates h3:after {
   content: '';
   position: absolute;
   display: block;
@@ -973,25 +973,25 @@ section {
   left: 0;
 }
 
-.course-details .course-info {
+.Certificates .course-info {
   background: #f6f7f6;
   padding: 10px 15px;
   margin-bottom: 15px;
 }
 
-.course-details .course-info h5 {
+.Certificates .course-info h5 {
   font-weight: 400;
   font-size: 16px;
   margin: 0;
   font-family: "Poppins", sans-serif;
 }
 
-.course-details .course-info p {
+.Certificates .course-info p {
   margin: 0;
   font-weight: 600;
 }
 
-.course-details .course-info a {
+.Certificates .course-info a {
   color: #657a6d;
 }
 
